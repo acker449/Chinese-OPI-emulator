@@ -1,0 +1,14 @@
+{
+    "easy": [
+        "What is your name?",
+        "How are you?"
+    ],
+    "medium": [
+        "Describe your hometown.",
+        "Talk about your daily routine."
+    ],
+    "hard": [
+        "Discuss an important issue in your community.",
+        "Describe a significant experience in your life."
+    ]
+}
